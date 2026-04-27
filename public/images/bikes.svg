@@ -1,0 +1,10 @@
+<svg width="1200" height="800" viewBox="0 0 1200 800" xmlns="http://www.w3.org/2000/svg">
+  <rect width="1200" height="800" fill="#dcfce7" />
+  <circle cx="350" cy="540" r="95" fill="#14532d" />
+  <circle cx="830" cy="540" r="95" fill="#14532d" />
+  <path d="M350 540L530 410L630 540L830 540" stroke="#16a34a" stroke-width="34" fill="none" stroke-linecap="round" />
+  <path d="M530 410L620 300L700 300" stroke="#166534" stroke-width="28" fill="none" stroke-linecap="round" />
+  <text x="600" y="170" text-anchor="middle" font-family="Arial, sans-serif" font-size="74" fill="#166534">
+    Bikes
+  </text>
+</svg>

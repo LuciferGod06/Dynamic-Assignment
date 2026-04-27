@@ -1,0 +1,9 @@
+<svg width="1200" height="800" viewBox="0 0 1200 800" xmlns="http://www.w3.org/2000/svg">
+  <rect width="1200" height="800" fill="#ede9fe" />
+  <rect x="430" y="170" width="340" height="470" rx="38" fill="#6d28d9" />
+  <rect x="460" y="220" width="280" height="330" rx="20" fill="#c4b5fd" />
+  <circle cx="600" cy="595" r="16" fill="#ddd6fe" />
+  <text x="600" y="130" text-anchor="middle" font-family="Arial, sans-serif" font-size="74" fill="#5b21b6">
+    Phones
+  </text>
+</svg>

@@ -1,0 +1,10 @@
+<svg width="1200" height="800" viewBox="0 0 1200 800" xmlns="http://www.w3.org/2000/svg">
+  <rect width="1200" height="800" fill="#fef3c7" />
+  <rect x="250" y="180" width="700" height="360" rx="30" fill="#b45309" />
+  <rect x="300" y="230" width="600" height="250" rx="18" fill="#fde68a" />
+  <rect x="500" y="560" width="200" height="32" rx="12" fill="#92400e" />
+  <rect x="450" y="592" width="300" height="40" rx="12" fill="#78350f" />
+  <text x="600" y="130" text-anchor="middle" font-family="Arial, sans-serif" font-size="68" fill="#92400e">
+    Computers
+  </text>
+</svg>
